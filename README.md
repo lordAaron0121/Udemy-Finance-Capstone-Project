@@ -12,7 +12,7 @@ The objective is to act as a Financial Analyst / Advisor Role and give advice on
 - Calculate Rolling Statistics (e.g. Simple Moving Averages) and aggregate, visualize and report Financial Performance
 - Create Interactive Charts with Technical Indicators (SMA, Candle Stick, Bollinger Bands etc.)
 
-I have completed the course, and click this [link](https://www.udemy.com/certificate/UC-559dcf54-a52a-4cf7-84de-31222e568dde/) to access the certificate. 
+I have completed the course, and click this [link](https://www.udemy.com/certificate/UC-559dcf54-a52a-4cf7-84de-31222e568dde/) to access my certificate. 
 
 ## About me 😎
 Data Science and Artificial Intelligence Sophomore aspired to be an analyst and interested in landing my first internship in the finance industry.
